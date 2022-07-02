@@ -21,12 +21,20 @@ Create another configuration for prod following two steps above
 [SCREEN2](https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen2.jpg?raw=true)
 [SCREEN3](https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen3.jpg?raw=true)
 [SCREEN4](https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen4.jpg?raw=true)
-<p float="left">
-  <img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen1.jpg?raw=true" />
-  <img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen2.jpg?raw=true" /> 
-  <img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen3.jpg?raw=true"  />
-  <img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen4.jpg?raw=true"  />
-</p>
+<table>
+  <tr>
+    <td>DomainPage</td>
+     <td>Create Account Page</td>
+     <td>LoginPage</td>
+     <td>Inbox</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen1.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen2.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen3.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen4.jpg?raw=true" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## APK DOWNLOAD
 [APK](https://github.com/RIZVY91221/mail_tm/blob/master/file/app.apk?raw=true)
