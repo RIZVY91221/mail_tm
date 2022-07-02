@@ -9,12 +9,13 @@ mailTm  for assignment
 - [LOGGER](https://pub.dev/packages/logger)
 - [font_awesome_flutter](https://pub.dev/packages/logger)
 - [pretty_dio_logger](https://pub.dev/packages/pretty_dio_logger)
-##Project Config
-Step 1: First of all click "Add/Edit Configurations"
-Step 2: Choose "Flutter" from configuration list and select your Dart entrypoint path according to your flavor then give a name and allow dart support for this project
-Create another configuration for prod following two steps above
 
- dev_run:`flutter run -t lib/main_dev.dart`
+## PROJECT CONFIG
+Step 1: First of all click "Add/Edit Configurations" <br />
+Step 2: Choose "Flutter" from configuration list and select your Dart entrypoint path according to your flavor then give a name and allow dart support for this project <br />
+Create another configuration for prod following two steps above <br />
+
+ dev_run:`flutter run -t lib/main_dev.dart` <br />
  prod_build: `flutter build apk -t lib/main_prod.dart --flavor prod`
 ## SCREEN
 [SCREEN1](https://github.com/RIZVY91221/mail_tm/blob/master/file/image/screen1.jpg?raw=true)
